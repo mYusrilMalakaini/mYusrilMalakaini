@@ -1,4 +1,4 @@
-# Hi there, I'm NocTuax! 👋
+# Hi there, I'm Yusril! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/NocTuax?style=social)](https://github.com/NocTuax)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhamad-yusril-malakaini-06704b360)
