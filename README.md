@@ -31,7 +31,7 @@ Currently focused on building hands-on cybersecurity labs to detect OWASP Top 10
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NocTuax&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NocTuax&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mYusrilMalakaini&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ## 📈 Weekly Activity (WIP)
@@ -43,7 +43,7 @@ Coming soon: Wakatime integration untuk menampilkan coding activity
 - 🔭 Building **SOC ANALYST LAB** 
 - 🌱 Learning **Advanced Threat Hunting** & **Incident Response**
 - 👯 Looking to collaborate on **Cybersecurity Projects**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/muhamad-yusril-malakaini-06704b360) or [Email](mailto:emailanda@gmail.com)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/myusrilmalakaini/) or [Email](mailto:yusrilmalakainii@gmail.com)
 
 ---
 
