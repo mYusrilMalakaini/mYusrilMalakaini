@@ -1,7 +1,7 @@
 # Hi there, I'm Yusril! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/NocTuax?style=social)](https://github.com/NocTuax)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhamad-yusril-malakaini-06704b360)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/myusrilmalakaini/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:yusrilmalakainii@gmail.com)
 
 ## 🚀 About Me
