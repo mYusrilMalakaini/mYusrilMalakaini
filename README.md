@@ -30,7 +30,7 @@ Currently focused on building hands-on cybersecurity labs to detect OWASP Top 10
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NocTuax&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mYusrilMalakaini&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mYusrilMalakaini&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
